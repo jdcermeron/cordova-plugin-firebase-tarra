@@ -2,26 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
- 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
 	<string>ca-app-pub-3940256099942544/2934735716</string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>481527422226-73ukkb7edo2s0bp06m7famca6r2la45f.apps.googleusercontent.com</string>
+	<string>980466855613-l6fvsvau0hm7mmuq94uu065t1pll9e3e.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.481527422226-73ukkb7edo2s0bp06m7famca6r2la45f</string>
+	<string>com.googleusercontent.apps.980466855613-l6fvsvau0hm7mmuq94uu065t1pll9e3e</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCD1-evwzPqOx7I5ikqudXjzIMWD-YKlPo</string>
+	<string>AIzaSyDajjyWNyNLyNtt0fjYLcpwUOaNgo66LrA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>481527422226</string>
+	<string>980466855613</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>org.ampatarradellas.tarraAPP</string>
+	<string>org.ampatarradellas.tarradellasAPP</string>
 	<key>PROJECT_ID</key>
-	<string>tarraapp</string>
+	<string>tarraapp-29c2e</string>
 	<key>STORAGE_BUCKET</key>
-	<string>tarraapp.appspot.com</string>
+	<string>tarraapp-29c2e.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:481527422226:ios:a2adb72a4e3a7d62</string>
+	<string>1:980466855613:ios:29cc28326597ccbc</string>
 	<key>DATABASE_URL</key>
-	<string>https://tarraapp.firebaseio.com</string>
+	<string>https://tarraapp-29c2e.firebaseio.com</string>
 </dict>
 </plist>
