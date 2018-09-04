@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:980466855613:android:8ca37faaf5bdc351",
+        "mobilesdk_app_id": "1:980466855613:android:29cc28326597ccbc",
         "android_client_info": {
-          "package_name": "org.ampatarradellas.tarraapp"
+          "package_name": "org.ampatarradellas.tarradellasAPP"
         }
       },
       "oauth_client": [
